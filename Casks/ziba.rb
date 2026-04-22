@@ -1,6 +1,6 @@
 cask "ziba" do
-  version "1.2.2"
-  sha256 "ea33db1f55d409418f2235d0f54c7d32f403fbdccd07ba739fbeb74f989380ee"
+  version "1.2.3"
+  sha256 "180ab8724d5b32a4a630f7e71684c1688dc73bbe6d3b8ca48f3daf175b36e2e1"
 
   url "https://github.com/electricsheepco/ziba/releases/download/v#{version}/ziba-#{version}.dmg"
   name "ziba"
